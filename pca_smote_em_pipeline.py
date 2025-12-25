@@ -1,9 +1,7 @@
 
----
-
 # pca_smote_em_pipeline.py (full file)
 
-```python
+
 """
 pca_smote_em_pipeline.py
 
