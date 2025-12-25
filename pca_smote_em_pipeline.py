@@ -2,7 +2,6 @@
 ---
 
 # pca_smote_em_pipeline.py (full file)
-Copy this file into the repo as `pca_smote_em_pipeline.py` (same code as you provided, with the `prepare_dataset()` function included):
 
 ```python
 """
